@@ -1,5 +1,5 @@
 # week_1
-1. The Problem Statement
+**1. The Problem Statement**
 
 Ineffective household waste sorting is a critical environmental problem, leading to high rates of recycling contamination. This contamination renders entire batches of recyclables useless, forcing them to be redirected to landfills.
 
