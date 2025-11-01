@@ -11,7 +11,7 @@ This failure is not due to a lack of public willingness, but a two-part "informa
 
 
  
- **THE SOLUTION PROPOSED: What We Are Building**
+ **THE SOLUTION PROPOSED: What I am  Building**
 
 We are building the "E-Cycle Coach," a full-stack, AI-powered web application that solves both problems. It's not just a sorting tool; it's a **gamified social platform** that turns recycling from a chore into an engaging, collaborative community effort.
 
@@ -44,7 +44,7 @@ Dataset:Here is the updated problem statement, specifically tailored for that "i
 
 ---
 
-### 1. Your Problem Statement (for the "Improvisations" Box)
+### 1. Problem Statement (for the "Improvisations" Box)
 
 This is written to be concise and directly answer the prompt on your submission form.
 
@@ -62,7 +62,7 @@ This is written to be concise and directly answer the prompt on your submission 
 
 * **Dataset Name:** Garbage Dataset (19k+ Images)
 * **Kaggle Link:** `https://www.kaggle.com/datasets/sumn2u/garbage-classification-v2`
-* **Classes You Will Train For (10):**
+* **Classes  Will Train For (10):**
     1.  battery
     2.  biological
     3.  cardboard
